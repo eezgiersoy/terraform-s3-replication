@@ -1,0 +1,8 @@
+# Terraform files
+terraform/.terraform/
+terraform/.terraform*
+terraform/terraform.*
+
+# IDE Files
+.idea/
+.vscode/
